@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Xurdershop/static/css/main.79c91b07.css",
-    "main.js": "/React-Xurdershop/static/js/main.3c4d532c.js",
-    "static/media/2.png": "/React-Xurdershop/static/media/2.5f080d9e47bf46ca3fce.png",
-    "static/media/3.png": "/React-Xurdershop/static/media/3.c7785c796d0b2bf5aa2b.png",
-    "static/media/4.png": "/React-Xurdershop/static/media/4.dce93278370eb9a94e56.png",
-    "static/media/1.png": "/React-Xurdershop/static/media/1.87f6c2f48f7e15ed845b.png",
-    "static/media/8.webp": "/React-Xurdershop/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
-    "static/media/5.png": "/React-Xurdershop/static/media/5.a13c8fc38072a14d6633.png",
-    "static/media/6.webp": "/React-Xurdershop/static/media/6.5828a0fe3c77468b8726.webp",
-    "static/media/7.webp": "/React-Xurdershop/static/media/7.59c9a0eba54726d9fc95.webp",
-    "index.html": "/React-Xurdershop/index.html",
-    "main.79c91b07.css.map": "/React-Xurdershop/static/css/main.79c91b07.css.map",
-    "main.3c4d532c.js.map": "/React-Xurdershop/static/js/main.3c4d532c.js.map"
+    "main.css": "/React-XurderShop/static/css/main.79c91b07.css",
+    "main.js": "/React-XurderShop/static/js/main.dd39413c.js",
+    "static/media/2.png": "/React-XurderShop/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/React-XurderShop/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/4.png": "/React-XurderShop/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/1.png": "/React-XurderShop/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/8.webp": "/React-XurderShop/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.png": "/React-XurderShop/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/6.webp": "/React-XurderShop/static/media/6.5828a0fe3c77468b8726.webp",
+    "static/media/7.webp": "/React-XurderShop/static/media/7.59c9a0eba54726d9fc95.webp",
+    "index.html": "/React-XurderShop/index.html",
+    "main.79c91b07.css.map": "/React-XurderShop/static/css/main.79c91b07.css.map",
+    "main.dd39413c.js.map": "/React-XurderShop/static/js/main.dd39413c.js.map"
   },
   "entrypoints": [
     "static/css/main.79c91b07.css",
-    "static/js/main.3c4d532c.js"
+    "static/js/main.dd39413c.js"
   ]
 }
